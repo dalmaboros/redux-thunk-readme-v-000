@@ -33,7 +33,7 @@ What happens though, when we're ready to pull in real live data from an external
 source like an API?
 
 Well, we already know how to make a web request. We can use something like
-JavaScript's native Fetch API to sent a web request:
+JavaScript's native Fetch API to send a web request:
 
 ```js
 fetch('http://www.catapi.com')
